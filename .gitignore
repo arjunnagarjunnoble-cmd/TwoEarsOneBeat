@@ -1,0 +1,14 @@
+# Gradle
+.gradle
+build/
+
+# Android
+*.iml
+.DS_Store
+local.properties
+
+# Firebase
+app/google-services.json
+
+# Logs
+*.log
